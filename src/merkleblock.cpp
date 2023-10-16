@@ -161,3 +161,11 @@ uint256 CPartialMerkleTree::ExtractMatches(std::vector<uint256> &vMatch, std::ve
         return uint256();
     return hashMerkleRoot;
 }
+
+
+
+
+
+
+// in POC
+//left ----  parent -----  root ---- parent---// need to implt zk from used fork
