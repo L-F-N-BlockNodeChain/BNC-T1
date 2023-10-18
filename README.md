@@ -1,4 +1,4 @@
-BlockNodeChain Core integration/staging tree
+BlockNodeChain Core integration
 =====================================
 
 
